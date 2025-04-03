@@ -1,0 +1,61 @@
+# **QUIZ - Inférence Causale**
+
+## **1. Qu'est-ce que l'inférence causale ?**  
+**b)** Un processus visant à identifier un lien de causalité entre des variables.  
+
+## **2. Quelle est la principale difficulté de l'inférence causale ?**  
+**c)** L'impossibilité d'observer directement les contrefactuels.  
+
+## **3. Qu’est-ce qu’un contrefactuel ?**  
+**b)** Un événement hypothétique qui aurait pu se produire sous une condition différente.  
+
+## **4. Quel modèle est souvent utilisé pour formuler l'inférence causale ?**  
+**c)** Le cadre de Rubin (Rubin Causal Model).  
+
+## **5. Quelle est la définition d’un traitement dans une étude causale ?**  
+**c)** Une intervention ou une exposition dont on veut évaluer l'effet.  
+
+## **6. Pourquoi utilise-t-on des expériences randomisées contrôlées (ERC) en inférence causale ?**  
+**c)** Pour garantir une attribution aléatoire et éviter les biais de sélection.  
+
+## **7. Quelle méthode est utilisée lorsque les ERC ne sont pas possibles ?**  
+**b)** Les méthodes quasi-expérimentales.  
+
+## **8. Quelle méthode quasi-expérimentale repose sur une hypothèse de quasi-randomisation ?**  
+**b)** La méthode des doubles différences (DID).  
+
+## **9. Quel est le rôle des variables instrumentales en inférence causale ?**  
+**b)** Aider à identifier les effets causaux en éliminant les biais de confusion.  
+
+## **10. Pourquoi les modèles de régression simples ne suffisent-ils pas toujours pour établir la causalité ?**  
+**a)** Parce qu'ils ne permettent pas de mesurer les contrefactuels.  
+
+## **11. Quel est l’objectif principal des modèles de régression sur discontinuité (RD) ?**  
+**b)** Évaluer l'effet causal d'une intervention en exploitant un seuil arbitraire.  
+
+## **12. Que signifie "DID" en inférence causale ?**  
+**a)** Différence en différences.  
+
+## **13. Quels sont les principaux problèmes liés à l’omission d’une variable confondante ?**  
+**a)** Biais dans l'estimation des effets causaux.  
+
+## **14. Quel outil graphique est souvent utilisé pour représenter des relations causales ?**  
+**c)** Les graphes causaux dirigés (DAGs).  
+
+## **15. Quel principe clé est à la base de la méthode des doubles différences ?**  
+**a)** Comparer l’évolution d’un groupe traité et d’un groupe de contrôle avant et après une intervention.  
+
+## **16. Quel est l'intérêt des méthodes de machine learning pour l'inférence causale ?**  
+**b)** Elles automatisent le processus d'analyse causale.  
+
+## **17. Quel concept permet d’éviter le biais de sélection dans une étude causale ?**  
+**b)** L'attribution aléatoire des traitements.  
+
+## **18. Comment interpréter un effet causal estimé avec une approche quasi-expérimentale ?**  
+**a)** Comme une approximation de l'effet réel, sous certaines hypothèses.  
+
+## **19. Pourquoi est-il important d’examiner la validité des hypothèses en inférence causale ?**  
+**c)** Pour vérifier l’efficacité du modèle prédictif.  
+
+## **20. Quel auteur est souvent cité comme une référence en inférence causale ?**  
+**a)** Karl Pearson.  
